@@ -21012,8 +21012,8 @@
     "141319": {
       "events": {},
       "links": {},
-      "address": "0x90d55651FCC7f8Fb5d9Ba4C643541BDC67dBEDE1",
-      "transactionHash": "0x8b8209d99175b6c2d7e63cfe9bedfb704de1f4f5056ca858949fdff77711df00"
+      "address": "0x4ad285c318Fc5D5e95065d8D4c54563A83cef8aB",
+      "transactionHash": "0xf2f0e87c738f627bb849add034cc0bf48b1823d378b3e91f0465488ea22994d8"
     },
     "1769796514151": {
       "events": {},
@@ -21029,7 +21029,7 @@
     }
   },
   "schemaVersion": "3.4.16",
-  "updatedAt": "2026-02-03T14:20:31.620Z",
+  "updatedAt": "2026-03-03T19:35:36.205Z",
   "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",
